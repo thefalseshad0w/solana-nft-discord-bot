@@ -40,8 +40,8 @@ const marketplaceMap = {
     "A7p8451ktDCHq5yYaHczeLMYsjRsAkzc3hCXcSrwYHU7": "Digital Eyes",
     "AmK5g2XcyptVLCFESBCJqoSfwV3znGoVYQnqEnaAZKWn": "Exchange Art",
  //   "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA" : "Candy Machine v2 Devnet",
-    "cndy3Z4yapfJBmL3ShUp5exZKqR3z33thTzeNMm2gRZ" : "CM Mainnet",
-    "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA": "Solanart Market",
+    //"cndy3Z4yapfJBmL3ShUp5exZKqR3z33thTzeNMm2gRZ" : "CM Mainnet",
+    //"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA": "Solanart Market",
 };
 
 const marketplaceImgMap = {
@@ -49,7 +49,7 @@ const marketplaceImgMap = {
     "HZaWndaNWHFDd9Dhk5pqUUtsmoBCqzb1MLu3NAh1VX6B": "https://i.postimg.cc/135phc4R/Alpha-Art.png",
     "617jbWo616ggkDxvW1Le8pV38XLbVSyWY8ae6QUmGBAU": "https://i.postimg.cc/Zqmz5ntq/Solsea.jpg",
     "CJsLwbP1iu5DuUikHEJnLfANgKy6stB2uFgvBBHoyxwz": "https://i.postimg.cc/1XdZmKsx/solanart.png",
-    "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA": "https://i.postimg.cc/1XdZmKsx/solanart.png"
+    //"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA": "https://i.postimg.cc/1XdZmKsx/solanart.png"
 };
 
 
